@@ -13,7 +13,7 @@ SUPABASE_SERVICE_KEY = os.environ["SUPABASE_SERVICE_KEY"]
 
 supabase = create_client(SUPABASE_URL, SUPABASE_SERVICE_KEY)
 
-BUCKET = "simuladores"
+BUCKET = "Simulador_web"
 CURSO_SIMULADOR = "Tomografia 2.0 + Simulador"
 
 
